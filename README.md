@@ -4,14 +4,14 @@ This script allows you to search the Shodan database for servers based on a quer
 ## Dependencies
 This script requires the requests library. You can install it with pip:
 
-'pip install requests'
+`pip install requests`
 
 ## Usage
 First, replace 'your_shodan_api_key' with your actual Shodan API key in the script.
 
 To run the script, use:
 
-'python shodan_nvd_search.py'
+`python shodan_nvd_search.py`
 
 When prompted, enter your query string to search for hosts in Shodan.
 
